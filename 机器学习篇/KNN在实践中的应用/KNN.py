@@ -1,3 +1,5 @@
+from array import array
+
 from numpy import *
 import operator
 
